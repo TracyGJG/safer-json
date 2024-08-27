@@ -1,0 +1,26 @@
+{
+  "name": "safer-json",
+  "version": "1.0.0",
+  "description": "Simple library for improved reliability of JSON operations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TracyGJG/safer-json.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "TGJ Gilmore",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/TracyGJG/safer-json/issues"
+  },
+  "homepage": "https://github.com/TracyGJG/safer-json#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
